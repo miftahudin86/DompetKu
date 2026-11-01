@@ -1,0 +1,6 @@
+{
+  "name": "DompetKu",
+  "description": "Aplikasi pencatatan keuangan pribadi dan dompet cerdas untuk memantau pengeluaran, pemasukan, anggaran, dan analisis finansial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
